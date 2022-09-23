@@ -14,4 +14,4 @@ segundoBotao.onclick = () => {
     feedbackPositivo.setAttribute('hidden','true');
     feedbackNegativo.removeAttribute('hidden');
   }
-};
+}
